@@ -1,0 +1,17 @@
+Jira:
+Description:
+Jira is a popular project management and issue-tracking tool. 
+It is widely used by software teams to plan tasks, track progress,
+manage bugs, and support Agile workflows.
+Flow Representation:
+Backlog (All Tasks)
+        ↓
+Sprint Planning
+        ↓
+To Do
+        ↓
+In Progress
+        ↓
+Code Review / Testing
+        ↓
+Done

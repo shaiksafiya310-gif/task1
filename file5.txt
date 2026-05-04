@@ -1,0 +1,23 @@
+Scrum:
+Description:
+Scrum is an Agile framework used to manage and complete complex projects
+through small, time-boxed iterations called Sprints. It helps teams work
+ collaboratively, deliver faster, and continuously improve.
+ Flow Representation:
+ Product Backlog
+        ↓
+Sprint Planning
+        ↓
+Sprint Backlog
+        ↓
+Sprint (Development Work)
+        ↓
+Daily Scrum (Meetings)
+        ↓
+Increment (Working Product)
+        ↓
+Sprint Review
+        ↓
+Sprint Retrospective
+        ↓
+Next Sprint (Repeat 🔁)
