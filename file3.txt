@@ -1,0 +1,19 @@
+3.Software lifecycle:
+Description:
+-------------
+Software Development Life Cycle (SDLC) is a structured process used to
+design, develop, test, and maintain software. It defines all the steps
+needed to build high-quality software in a systematic way.
+Flow Representation:
+--------------------
+Requirement Analysis
+        ↓
+System Design
+        ↓
+Implementation (Coding)
+        ↓
+Testing
+        ↓
+Deployment
+        ↓
+Maintenance
